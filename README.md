@@ -51,7 +51,6 @@ Navigate to the respective directories and open index.html in any modern web bro
 Portions of the frontend logic and visual layout were inspired by ALGORITHM-VISUALIZER by TIASAASH.
 
 This repository is a clone of our group project hosted at Team-Project_Exhibition1 by Krshm10, built collaboratively by our team.
-
 🛠️ Future Enhancements
 Improve responsiveness for better mobile compatibility.
 
