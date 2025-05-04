@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Feedback Page</title>
+    <link rel="stylesheet" href="feedback.css">
+</head>
+
+<body>
+    <div class="container">
+        <h1>Feedback Form</h1>
+        <form id="feedbackForm" action="#" method="post">
+            <label for="name">Name:</label>
+            <input type="text" id="name" name="name" placeholder="Enter your name*" required>
+
+            <label for="email">Email:</label>
+            <input id="email-signup" type="email" name="email" placeholder="Email *" required>
+
+            <label for="feedback">Feedback:</label>
+            <textarea id="feedback" name="feedback" rows="5" placeholder="Share your feedback here..." required></textarea>
+
+            <label for="sorting">Choose the sorting in which you faced problem:</label>
+            <div class="checkbox-group">
+                <label><input type="checkbox" name="sorting" value="insertion"> Insertion Sort</label>
+                <label><input type="checkbox" name="sorting" value="selection"> Selection Sort</label>
+                <label><input type="checkbox" name="sorting" value="merge"> Merge Sort</label>
+                <label><input type="checkbox" name="sorting" value="bubble"> Bubble Sort</label>
+                <label><input type="checkbox" name="sorting" value="quick"> Quick Sort</label>
+                <label><input type="checkbox" name="sorting" value="none"> None</label>
+            </div>
+
+            <button type="submit">Submit Feedback</button>
+        </form>
+    </div>
+    <script type="module" src="feedback.js"></script>
+</body>
+
+</html>
