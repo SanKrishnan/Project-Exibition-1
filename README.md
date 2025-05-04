@@ -1,6 +1,6 @@
-Project-Frontend
+📊 Visualization of Sorting Techniques
 📌 Project Overview
-This repository contains a collection of frontend projects built using HTML, CSS, and JavaScript. The projects focus on creating responsive and interactive web pages with user-friendly designs.
+This repository, Visualization of Sorting Techniques, contains a collection of frontend projects built using HTML, CSS, and JavaScript. The focus is on creating responsive and interactive visualizations of various sorting algorithms, designed to enhance understanding through clear, animated user interfaces.
 
 📁 Directory Structure
 1️⃣ Feedback_form
@@ -13,7 +13,7 @@ Enhances user experience with clear success/error messages.
 2️⃣ First
 An initial prototype version of the website.
 
-Contains the foundational layout and basic styling.
+Contains foundational layout and basic styling.
 
 Helps in structuring and testing UI components before finalizing the project.
 
@@ -22,46 +22,47 @@ The main project directory that holds the core website files.
 
 Structured with HTML (content), CSS (styling), and JavaScript (interactivity).
 
-Implements various UI/UX improvements for a seamless user experience.
+Implements UI/UX improvements and sorting visualizations for an engaging user experience.
 
 🔧 Technologies Used
-HTML - For structuring web pages.
+HTML – For structuring web pages
 
-CSS - For styling and responsive design.
+CSS – For styling and responsive design
 
-JavaScript - For adding interactivity.
+JavaScript – For adding interactivity and animations
 
 ✨ Features
 ✅ User-friendly interface with responsive design
-✅ Interactive elements for an enhanced user experience
+✅ Sorting algorithm visualizations with step-by-step animation
+✅ Feedback form with input validation
 ✅ Optimized and well-structured code for maintainability
-✅ Validation for form inputs to ensure data accuracy
 
 🚀 Installation & Usage
 1️⃣ Clone the Repository
 sh
 Copy
 Edit
-git clone https://github.com/SanKrishnan/Project-Frontend.git
-cd Project-Frontend
+git clone https://github.com/SanKrishnan/Project-Exibition-1.git
+cd Project-Exibition-1
 2️⃣ Open the Project in a Browser
-Navigate to the respective directories and open index.html in any modern web browser.
+Navigate to the desired directory and open index.html in any modern web browser.
 
 📚 References
 Portions of the frontend logic and visual layout were inspired by ALGORITHM-VISUALIZER by TIASAASH.
 
-This repository is a clone of our group project hosted at Team-Project_Exhibition1 by Krshm10, built collaboratively by our team.
+This repository is a clone of our group project hosted at Team-Project_Exhibition1 by Krshm10, collaboratively developed by our team.
+
 🛠️ Future Enhancements
-Improve responsiveness for better mobile compatibility.
+Improve mobile responsiveness and accessibility.
 
-Add more animations and dynamic elements for better UI/UX.
+Add more animations and sorting techniques (like Radix, Heap Sort).
 
-Implement backend support for form submissions and data processing.
+Integrate backend support for storing feedback and user interaction data.
 
 🤝 Contributing
-Contributions are welcome! Feel free to fork, clone, and submit pull requests.
+Contributions are welcome! Feel free to fork, clone, and submit pull requests to enhance the project.
 
 📜 License
 This project is open-source under the MIT License.
 
-🌐 Explore | Improve | Innovate 🚀
+🌐 Explore | Visualize | Learn 🚀
